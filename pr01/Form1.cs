@@ -21,5 +21,10 @@ namespace pr01
         {
             MessageBox.Show("Ahoj lidi!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("cahoj");
+        }
     }
 }
