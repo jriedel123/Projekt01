@@ -45,10 +45,15 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(199, 127);
+
+          
             this.button2.Margin = new System.Windows.Forms.Padding(2);
+
+
+
+            this.button2.Location = new System.Drawing.Point(215, 28);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(135, 39);
+            this.button2.Size = new System.Drawing.Size(132, 36);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
